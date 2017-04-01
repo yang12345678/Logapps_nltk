@@ -2,6 +2,7 @@ import nltk
 from collections import Counter
 from nltk.stem import WordNetLemmatizer
 import fileinput
+import sys
 lemmatiser = WordNetLemmatizer()
 count = Counter()
 
@@ -22,12 +23,26 @@ def verbage(input_string):
     for i in verbs:
         x = (lemmatiser.lemmatize(i, pos="v"))
         listerine.append(x)
-    print(str(listerine))
+    # print(str(listerine))
+
+    x, y = input("Want to replace some verb?\nType in the one to replace and the one you want.\nOtherwise, enter '0 0'. ").split(" ")
+    if x != 0:
+        for j in range(len(listerine)-1):
+            if listerine[j] == x:
+                listerine[j] = y
+        print (str(listerine) + "\n")
+    else:
+        pass
 
     for word in listerine:
         count[word] += 1
     print(count)
-    x = input("Please enter a phrase! ")
-    verbage(x)
+
+
+    z = input("Please enter a phrase or press 0 to exit. ")
+    if z == "0":
+        sys.exit()
+    else:
+        verbage(z)
 
 print(verbage(filestring))
