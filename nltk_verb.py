@@ -17,20 +17,24 @@ def verbage(input_string):
     	if (pos == 'VB' or pos == 'VBD' or pos == 'VBG' or pos == 'VBN' or pos == 'VBP' or pos == 'VBZ' )]
     downcased = [x.lower() for x in verbs]
     joined = " ".join(downcased).encode('utf-8')
-    print(str(verbs))
+    # print (str(verbs))
 
     listerine = []
     for i in verbs:
         x = (lemmatiser.lemmatize(i, pos="v"))
         listerine.append(x)
-    # print(str(listerine))
 
+    print(str(listerine))
+    return listerine
+
+def verbwork(array):
+    listerine = array
     x, y = input("Want to replace some verb?\nType in the one to replace and the one you want.\nOtherwise, enter '0 0'. ").split(" ")
     if x != 0:
         for j in range(len(listerine)-1):
             if listerine[j] == x:
                 listerine[j] = y
-        print (str(listerine) + "\n")
+        # print (str(listerine) + "\n")
     else:
         pass
 
@@ -45,4 +49,5 @@ def verbage(input_string):
     else:
         verbage(z)
 
-print(verbage(filestring))
+a = (verbage(filestring))
+print(verbwork(a))
