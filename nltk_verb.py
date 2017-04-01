@@ -49,5 +49,7 @@ def verbwork(array):
     else:
         verbage(z)
 
-a = (verbage(filestring))
-print(verbwork(a))
+
+if __name__ == '__main__':
+    a = (verbage(filestring))
+    print(verbwork(a))
