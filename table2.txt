@@ -1,0 +1,126 @@
++-------------------------------------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+----+-----+
+|                                     | s | m | l | c | s | c | a | u | h | s | c | r | u | g | n | s | o | a | t | b | s | pe | inv |
+|                                     | t | a | e | r | t | r | p | s | a | h | a | e | s | u | e | t | r | i | e | a | t | rf | est |
+|                                     | u | k | a | e | u | e | p | e | v | o | u | v | e | i | e | u | i | m | n | s | u | or | iga |
+|                                     | d | e | r | a | d | a | l |   | e | w | s | e |   | d | d | d | e |   | d | e | d | m  | te  |
+|                                     | y |   | n | t | y | t | y |   |   |   | e | a |   | e |   | y | n |   |   |   | y |    |     |
+|                                     |   |   |   | e |   | e |   |   |   |   |   | l |   |   |   |   | t |   |   |   |   |    |     |
++=====================================+===+===+===+===+===+===+===+===+===+===+===+===+===+===+===+===+===+===+===+===+===+====+=====+
+|  ways to make learning how to       | 1 | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | No | Non |
+| program                             |   | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | ne | e   |
+|                                     |   | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n |    |     |
+|                                     |   | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e |    |     |
++-------------------------------------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+----+-----+
+|  learning how to program            | N | 1 | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | No | Non |
+|                                     | o |   | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | ne | e   |
+|                                     | n |   | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n |    |     |
+|                                     | e |   | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e |    |     |
++-------------------------------------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+----+-----+
+|  how to program                     | N | N | 1 | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | No | Non |
+|                                     | o | o |   | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | ne | e   |
+|                                     | n | n |   | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n |    |     |
+|                                     | e | e |   | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e |    |     |
++-------------------------------------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+----+-----+
+|  programs                           | N | N | N | 1 | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | No | Non |
+|                                     | o | o | o |   | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | ne | e   |
+|                                     | n | n | n |   | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n |    |     |
+|                                     | e | e | e |   | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e |    |     |
++-------------------------------------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+----+-----+
+|  how nonprogrammers reason about    | N | N | N | N | 1 | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | No | Non |
+| programming concepts then to create | o | o | o | o |   | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | ne | e   |
+| one programming languages           | n | n | n | n |   | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n |    |     |
+| environments that apply these       | e | e | e | e |   | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e |    |     |
+| findings                            |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |    |     |
++-------------------------------------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+----+-----+
+|  one programming languages          | N | N | N | N | N | 1 | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | No | Non |
+| environments that apply these       | o | o | o | o | o |   | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | ne | e   |
+| findings                            | n | n | n | n | n |   | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n |    |     |
+|                                     | e | e | e | e | e |   | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e |    |     |
++-------------------------------------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+----+-----+
+|  these findings                     | N | N | N | N | N | N | 1 | N | N | N | N | N | N | N | N | N | N | N | N | N | N | No | Non |
+|                                     | o | o | o | o | o | o |   | o | o | o | o | o | o | o | o | o | o | o | o | o | o | ne | e   |
+|                                     | n | n | n | n | n | n |   | n | n | n | n | n | n | n | n | n | n | n | n | n | n |    |     |
+|                                     | e | e | e | e | e | e |   | e | e | e | e | e | e | e | e | e | e | e | e | e | e |    |     |
++-------------------------------------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+----+-----+
+|  the mechanisms for looping         | N | N | N | N | N | N | N | 1 | N | N | N | N | N | N | N | N | N | N | N | N | N | No | Non |
+| conditionals assignments that have  | o | o | o | o | o | o | o |   | o | o | o | o | o | o | o | o | o | o | o | o | o | ne | e   |
+| been shown to cause errors for both | n | n | n | n | n | n | n |   | n | n | n | n | n | n | n | n | n | n | n | n | n |    |     |
+| beginning programmers in the C      | e | e | e | e | e | e | e |   | e | e | e | e | e | e | e | e | e | e | e | e | e |    |     |
+| language                            |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |    |     |
++-------------------------------------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+----+-----+
+|  been shown to cause errors for     | N | N | N | N | N | N | N | N | 1 | N | N | N | N | N | N | N | N | N | N | N | N | No | Non |
+| both beginning programmers in the C | o | o | o | o | o | o | o | o |   | o | o | o | o | o | o | o | o | o | o | o | o | ne | e   |
+| language                            | n | n | n | n | n | n | n | n |   | n | n | n | n | n | n | n | n | n | n | n | n |    |     |
+|                                     | e | e | e | e | e | e | e | e |   | e | e | e | e | e | e | e | e | e | e | e | e |    |     |
++-------------------------------------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+----+-----+
+|  to cause errors for both beginning | N | N | N | N | N | N | N | N | N | 1 | N | N | N | N | N | N | N | N | N | N | N | No | Non |
+| programmers in the C language       | o | o | o | o | o | o | o | o | o |   | o | o | o | o | o | o | o | o | o | o | o | ne | e   |
+|                                     | n | n | n | n | n | n | n | n | n |   | n | n | n | n | n | n | n | n | n | n | n |    |     |
+|                                     | e | e | e | e | e | e | e | e | e |   | e | e | e | e | e | e | e | e | e | e | e |    |     |
++-------------------------------------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+----+-----+
+|  errors for both beginning          | N | N | N | N | N | N | N | N | N | N | 1 | N | N | N | N | N | N | N | N | N | N | No | Non |
+| programmers in the C language       | o | o | o | o | o | o | o | o | o | o |   | o | o | o | o | o | o | o | o | o | o | ne | e   |
+|                                     | n | n | n | n | n | n | n | n | n | n |   | n | n | n | n | n | n | n | n | n | n |    |     |
+|                                     | e | e | e | e | e | e | e | e | e | e |   | e | e | e | e | e | e | e | e | e | e |    |     |
++-------------------------------------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+----+-----+
+|  results that can be used to guide  | N | N | N | N | N | N | N | N | N | N | N | 1 | N | N | N | N | N | N | N | N | N | No | Non |
+| the design of a programming system  | o | o | o | o | o | o | o | o | o | o | o |   | o | o | o | o | o | o | o | o | o | ne | e   |
+|                                     | n | n | n | n | n | n | n | n | n | n | n |   | n | n | n | n | n | n | n | n | n |    |     |
+|                                     | e | e | e | e | e | e | e | e | e | e | e |   | e | e | e | e | e | e | e | e | e |    |     |
++-------------------------------------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+----+-----+
+|  to guide the design of a           | N | N | N | N | N | N | N | N | N | N | N | N | 1 | N | N | N | N | N | N | N | N | No | Non |
+| programming system                  | o | o | o | o | o | o | o | o | o | o | o | o |   | o | o | o | o | o | o | o | o | ne | e   |
+|                                     | n | n | n | n | n | n | n | n | n | n | n | n |   | n | n | n | n | n | n | n | n |    |     |
+|                                     | e | e | e | e | e | e | e | e | e | e | e | e |   | e | e | e | e | e | e | e | e |    |     |
++-------------------------------------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+----+-----+
+|  the design of a programming system | N | N | N | N | N | N | N | N | N | N | N | N | N | 1 | N | N | N | N | N | N | N | No | Non |
+|                                     | o | o | o | o | o | o | o | o | o | o | o | o | o |   | o | o | o | o | o | o | o | ne | e   |
+|                                     | n | n | n | n | n | n | n | n | n | n | n | n | n |   | n | n | n | n | n | n | n |    |     |
+|                                     | e | e | e | e | e | e | e | e | e | e | e | e | e |   | e | e | e | e | e | e | e |    |     |
++-------------------------------------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+----+-----+
+|  to study about paradigms of        | N | N | N | N | N | N | N | N | N | N | N | N | N | N | 1 | N | N | N | N | N | N | No | Non |
+| computing are the most natural      | o | o | o | o | o | o | o | o | o | o | o | o | o | o |   | o | o | o | o | o | o | ne | e   |
+|                                     | n | n | n | n | n | n | n | n | n | n | n | n | n | n |   | n | n | n | n | n | n |    |     |
+|                                     | e | e | e | e | e | e | e | e | e | e | e | e | e | e |   | e | e | e | e | e | e |    |     |
++-------------------------------------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+----+-----+
+|  about paradigms of computing are   | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | 1 | N | N | N | N | N | No | Non |
+| the most natural                    | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o |   | o | o | o | o | o | ne | e   |
+|                                     | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n |   | n | n | n | n | n |    |     |
+|                                     | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e |   | e | e | e | e | e |    |     |
++-------------------------------------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+----+-----+
+|  ( C++ Java ) systems aimed at      | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | 1 | N | N | N | N | No | Non |
+| novice programmers tend to be event | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o |   | o | o | o | o | ne | e   |
+| based instead ( Basic HyperTalk )   | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n |   | n | n | n | n |    |     |
+| the language research community is  | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e |   | e | e | e | e |    |     |
+| studying styles                     |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |    |     |
++-------------------------------------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+----+-----+
+|  at novice programmers tend to be   | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | 1 | N | N | N | No | Non |
+| event based instead ( Basic         | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o |   | o | o | o | ne | e   |
+| HyperTalk ) the language research   | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n |   | n | n | n |    |     |
+| community is studying styles        | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e |   | e | e | e |    |     |
++-------------------------------------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+----+-----+
+|  to be event based instead ( Basic  | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | 1 | N | N | No | Non |
+| HyperTalk ) the language research   | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o |   | o | o | ne | e   |
+| community is studying styles        | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n |   | n | n |    |     |
+|                                     | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e |   | e | e |    |     |
++-------------------------------------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+----+-----+
+|  instead ( Basic HyperTalk ) the    | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | 1 | N | No | Non |
+| language research community is      | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o |   | o | ne | e   |
+| studying styles                     | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n |   | n |    |     |
+|                                     | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e |   | e |    |     |
++-------------------------------------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+----+-----+
+|  styles                             | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | 1 | No | Non |
+|                                     | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o |   | ne | e   |
+|                                     | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n |   |    |     |
+|                                     | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e |   |    |     |
++-------------------------------------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+----+-----+
+|  studies to investigate this        | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | 1  | Non |
+| question                            | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o |    | e   |
+|                                     | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n |    |     |
+|                                     | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e |    |     |
++-------------------------------------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+----+-----+
+|  this question                      | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N | No | 1   |
+|                                     | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | o | ne |     |
+|                                     | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n |    |     |
+|                                     | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e | e |    |     |
++-------------------------------------+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+----+-----+

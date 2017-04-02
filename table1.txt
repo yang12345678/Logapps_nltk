@@ -1,0 +1,74 @@
++-----+-----+-----+-------------------------------------------------------------------+
+| Par | Sen | Ver |                              Object                               |
+| a.  | t.  |  b  |                                                                   |
+|  #  |  #  |     |                                                                   |
++=====+=====+=====+===================================================================+
+| 1   | 1   | stu |  ways to make learning how to program                             |
+|     |     | dy  |                                                                   |
++-----+-----+-----+-------------------------------------------------------------------+
+| 1   | 1   | mak |  learning how to program                                          |
+|     |     | e   |                                                                   |
++-----+-----+-----+-------------------------------------------------------------------+
+| 1   | 1   | lea |  how to program                                                   |
+|     |     | rn  |                                                                   |
++-----+-----+-----+-------------------------------------------------------------------+
+| 1   | 2   | cre |  programs                                                         |
+|     |     | ate |                                                                   |
++-----+-----+-----+-------------------------------------------------------------------+
+| 1   | 3   | stu |  how nonprogrammers reason about programming concepts then to     |
+|     |     | dy  | create one programming languages environments that apply these    |
+|     |     |     | findings                                                          |
++-----+-----+-----+-------------------------------------------------------------------+
+| 1   | 3   | cre |  one programming languages environments that apply these findings |
+|     |     | ate |                                                                   |
++-----+-----+-----+-------------------------------------------------------------------+
+| 1   | 3   | app |  these findings                                                   |
+|     |     | ly  |                                                                   |
++-----+-----+-----+-------------------------------------------------------------------+
+| 2   | 4   | use |  the mechanisms for looping conditionals assignments that have    |
+|     |     |     | been shown to cause errors for both beginning programmers in the  |
+|     |     |     | C language                                                        |
++-----+-----+-----+-------------------------------------------------------------------+
+| 2   | 4   | hav |  been shown to cause errors for both beginning programmers in the |
+|     |     | e   | C language                                                        |
++-----+-----+-----+-------------------------------------------------------------------+
+| 2   | 4   | sho |  to cause errors for both beginning programmers in the C language |
+|     |     | w   |                                                                   |
++-----+-----+-----+-------------------------------------------------------------------+
+| 2   | 4   | cau |  errors for both beginning programmers in the C language          |
+|     |     | se  |                                                                   |
++-----+-----+-----+-------------------------------------------------------------------+
+| 3   | 5   | rev |  results that can be used to guide the design of a programming    |
+|     |     | eal | system                                                            |
++-----+-----+-----+-------------------------------------------------------------------+
+| 3   | 5   | use |  to guide the design of a programming system                      |
++-----+-----+-----+-------------------------------------------------------------------+
+| 3   | 5   | gui |  the design of a programming system                               |
+|     |     | de  |                                                                   |
++-----+-----+-----+-------------------------------------------------------------------+
+| 3   | 7   | nee |  to study about paradigms of computing are the most natural       |
+|     |     | d   |                                                                   |
++-----+-----+-----+-------------------------------------------------------------------+
+| 3   | 7   | stu |  about paradigms of computing are the most natural                |
+|     |     | dy  |                                                                   |
++-----+-----+-----+-------------------------------------------------------------------+
+| 3   | 8   | ori |  ( C++ Java ) systems aimed at novice programmers tend to be      |
+|     |     | ent | event based instead ( Basic HyperTalk ) the language research     |
+|     |     |     | community is studying styles                                      |
++-----+-----+-----+-------------------------------------------------------------------+
+| 3   | 8   | aim |  at novice programmers tend to be event based instead ( Basic     |
+|     |     |     | HyperTalk ) the language research community is studying styles    |
++-----+-----+-----+-------------------------------------------------------------------+
+| 3   | 8   | ten |  to be event based instead ( Basic HyperTalk ) the language       |
+|     |     | d   | research community is studying styles                             |
++-----+-----+-----+-------------------------------------------------------------------+
+| 3   | 8   | bas |  instead ( Basic HyperTalk ) the language research community is   |
+|     |     | e   | studying styles                                                   |
++-----+-----+-----+-------------------------------------------------------------------+
+| 3   | 8   | stu |  styles                                                           |
+|     |     | dy  |                                                                   |
++-----+-----+-----+-------------------------------------------------------------------+
+| 3   | 10  | per |  studies to investigate this question                             |
+|     |     | for |                                                                   |
+|     |     | m   |                                                                   |
++-----+-----+-----+-------------------------------------------------------------------+

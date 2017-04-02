@@ -2,54 +2,133 @@ import nltk
 from collections import Counter
 from nltk.stem import WordNetLemmatizer
 import fileinput
-import sys
+from nltk.corpus import treebank
+
 lemmatiser = WordNetLemmatizer()
-count = Counter()
+
+verb_list = []
+object_list = []
+sentence_number = []
+paragraph_number = []
 
 with open('logapps_appendix.txt', "r") as test_words:
     filestring = str(test_words.read())
 
 def verbage(input_string):
-    tokens = nltk.word_tokenize(input_string)
-    tagged = nltk.pos_tag(tokens)
 
-    verbs = [word for word,pos in tagged \
-    	if (pos == 'VB' or pos == 'VBD' or pos == 'VBG' or pos == 'VBN' or pos == 'VBP' or pos == 'VBZ' )]
-    downcased = [x.lower() for x in verbs]
-    joined = " ".join(downcased).encode('utf-8')
-    # print (str(verbs))
-
-    listerine = []
-    for i in verbs:
-        x = (lemmatiser.lemmatize(i, pos="v"))
-        listerine.append(x)
-
-    print(str(listerine))
-    return listerine
-
-def verbwork(array):
-    listerine = array
-    x, y = input("Want to replace some verb?\nType in the one to replace and the one you want.\nOtherwise, enter '0 0'. ").split(" ")
-    if x != 0:
-        for j in range(len(listerine)-1):
-            if listerine[j] == x:
-                listerine[j] = y
-        # print (str(listerine) + "\n")
-    else:
-        pass
-
-    for word in listerine:
-        count[word] += 1
-    print(count)
+    sent_list = input_string.split('.')
+    tag_list = []
+    for item in sent_list:
+        tokens = nltk.word_tokenize(item )
+        tagged = nltk.pos_tag(tokens)
+        tag_list.append(tagged)
+    makeDict(tag_list)
+    return verb_list, object_list, sentence_number, paragraph_number
 
 
-    z = input("Please enter a phrase or press 0 to exit. ")
-    if z == "0":
-        sys.exit()
-    else:
-        verbage(z)
 
 
-if __name__ == '__main__':
-    a = (verbage(filestring))
-    print(verbwork(a))
+def makeDict(tagList):
+
+    paragraph_num = 1
+    sent_num = 1
+    for sentence in tagList:
+
+        if sent_num == 4:
+            paragraph_num = 2
+        elif sent_num >= 5:
+            paragraph_num = 3
+        index = 0
+        while ( index < len(sentence)-1):
+
+            if sentence[index][1] == 'IN':
+                index += 2
+
+            x = (lemmatiser.lemmatize(sentence[index][0] , pos="v"))
+            if x == "be":
+                index +=1
+
+            if sentence[index][1] == 'VB' or sentence[index][1] =='VBD' or sentence[index][1] == 'VBG' or sentence[index][1] =='VBN' or sentence[index][1] == 'VBP' or sentence[index][1] =='VBZ':
+
+                makeLists(sentence,index,sent_num,paragraph_num)
+
+
+
+            index += 1
+        sent_num +=1
+
+
+
+def printSent(tagList):
+
+
+    # for key in final_dict.keys():
+    #     print (key, final_dict[key], '\n')
+    #
+    # x = getKeys(final_dict)
+    # print(x)
+    pass
+
+def getKeys(dictionary):
+
+    return dictionary.keys()
+
+def makeLists(sentence,verb_index,sent_num,paragraph_num):
+
+    string = ' '
+
+    index = verb_index + 1
+    while index < len(sentence) :
+
+        #if there is a noun followed by an adverb
+        if index != len(sentence)-1:
+
+            if (sentence[index][1] == 'NN' or sentence[index][1] =='NNS' or sentence[index][1] == 'NNP' or sentence[index][1] =='NNPS') and (sentence[index +1 ][1] == 'RB' or sentence[index +1 ][1] =='RBR' or sentence[index + 1][1] == 'RBS'):
+                string += sentence[index][0] + " "
+
+                x = (lemmatiser.lemmatize(sentence[verb_index][0] , pos="v"))
+
+                verb_list.append(x)
+                object_list.append(string)
+                sentence_number.append(sent_num)
+                paragraph_number.append(paragraph_num)
+                return
+
+
+            #if there is punctuation or adjectives skip over them
+            while (sentence[index][1] == 'JJ' or sentence[index][1] =='JJR' or sentence[index][1] == 'JJS' or sentence[index][1] == ',' or sentence[index][1] =='.' or sentence[index][1] == ':' or sentence[index][1] == 'CC' ):
+                index += 1
+
+
+
+
+
+        string += sentence[index][0] + " "
+        index += 1
+
+    x = (lemmatiser.lemmatize(sentence[verb_index][0] , pos="v"))
+    verb_list.append(x)
+    object_list.append(string)
+    sentence_number.append(sent_num)
+    paragraph_number.append(paragraph_num)
+
+    return
+
+def give_variables():
+    x = verb_list
+    return x
+
+def ygive_variables():
+    y = object_list
+    return y
+
+def zgive_variables():
+    z = sentence_number
+    return z
+
+def wgive_variables():
+    w = paragraph_number
+    return w
+
+
+verbage(filestring)
